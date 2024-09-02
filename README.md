@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **thirumalmyakala/thirumalmyakala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
+# 💫 About Me:
+I'm currently working on Kubernetes projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thirumal-myakala-88a256151/) 
@@ -30,4 +32,4 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=thirumalmyakala&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
--->
+
